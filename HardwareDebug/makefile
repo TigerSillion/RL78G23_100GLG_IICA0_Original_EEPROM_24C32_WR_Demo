@@ -121,7 +121,7 @@ clean:
 	@echo ''
 	@echo 'Clean complete.'
 
-.PHONY: all clean 
+.PHONY: all clean $(LINKER_OUTPUT_OUTPUTS)  
 -include ../makefile.targets
 .NOTPARALLEL: $(SMS_ASSEMBLER_H)
 .SECONDARY: $(SMS_ASSEMBLER_H)

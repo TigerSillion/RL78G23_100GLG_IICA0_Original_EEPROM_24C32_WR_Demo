@@ -264,8 +264,8 @@
           <Option>-output="${ProjName}.abs"</Option>
           <Option>-debug</Option>
           <Option>-nocompress</Option>
-          <Option>-memory=high</Option>
           <Option>-rom=.data=.dataR,.sdata=.sdataR</Option>
+          <Option>-stack</Option>
           <Option>-nomessage</Option>
           <Option>-nologo</Option>
           <Option>-library="C:\Program Files (x86)\Renesas\RL78\1_12_1\lib\rl78em4s99.lib"</Option>

@@ -27,7 +27,7 @@
 -output="RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo.abs" 
 -debug 
 -nocompress 
--memory=high 
 -rom=.data=.dataR,.sdata=.sdataR 
+-stack 
 -nomessage 
 -nologo
