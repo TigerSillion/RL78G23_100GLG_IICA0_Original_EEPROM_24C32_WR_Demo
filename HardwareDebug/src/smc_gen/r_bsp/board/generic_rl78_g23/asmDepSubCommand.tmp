@@ -1,0 +1,13 @@
+-asmopt=-MM
+-asmopt=-MP
+-cpu=S3
+-c
+-dev="C:/Users/a5140073/.eclipse/com.renesas.platform_1297214930/DebugComp/RL78/RL78/Common/DR7F100GLG.DVF"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen\r_config"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen\general"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen\r_pincfg"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen\r_bsp"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen"
+-I "C:\A_sw_workspace\e2s_workspace\e2workspace_202307\RL78G23_100GLG_IICA0_Original_EEPROM_24C32_WR_Demo\src\smc_gen\Config_IICA0"
+-character_set=utf8
+-g
